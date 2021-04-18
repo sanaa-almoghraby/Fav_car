@@ -1,0 +1,45 @@
+ header{
+   background-color: #fdfdfd;
+   
+ }
+
+ h1{
+   color:#194350;
+   text-align:center;
+
+ }
+header img {
+  width:100px;
+  height:100px ;
+
+}
+ nav ul li {
+   
+   align-items:right;
+   margin: 15px;
+   float:right;
+  list-style-type: none;
+
+
+ }
+ body{
+   background-color: #d44000;
+ }
+
+ nav ul li a{
+   text-decoration:none;
+ }
+
+
+
+ .img1{
+   width:100%;
+  
+ }
+ main article p{
+   font-size: 30px;
+ }
+
+footer{
+  text-align: center;
+}
